@@ -1,3 +1,5 @@
+## SEE BUG in https://github.com/amunrarara/medusa-model-name-bug/blob/a3a40bcc3a158b350fb2d7e08d53ea5731b6ed5c/src/workflows/create-relay.ts#L27
+
 <p align="center">
   <a href="https://www.medusajs.com">
   <picture>
